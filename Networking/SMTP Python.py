@@ -1,3 +1,4 @@
+# Manually implement Simple Mail Transfer Protocol with Python
 from socket import *
 msg = '\r\n I love computer networks!'
 endmsg = '\r\n.\r\n'
